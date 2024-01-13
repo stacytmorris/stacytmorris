@@ -1,4 +1,4 @@
-Hi 👋 My name is Stacy Morris
+Hi 👋 my name is Stacy Morris
 =============================
 
 Data Engineer
