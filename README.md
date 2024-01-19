@@ -1,7 +1,7 @@
 Hi 👋 my name is Stacy Morris
 =============================
 
-Junior Data Engineer
+Data Engineer
 -------------
 
 After gaining my bachelors degree in Mechanical Engineering, I embarked on a career in marketing. I felt the need to gain skills to better understand the data I was working with, which led me down the deep, deep rabbit hole of data analysis, exploration and manipulation 📈. After playing with data for a while, and being able to do my marketing job better as a result, I decided to get even deeper into the data world, where I found an area that truly fascinates me - the amazing world of data engineering! 🤩
